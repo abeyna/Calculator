@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+#operator {
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+}
+input[type="button"],
+button {
+  margin: 10px;
+  cursor: pointer;
+}
+#result {
+  border: 1px solid #000;
+}
